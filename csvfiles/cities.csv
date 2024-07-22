@@ -1,0 +1,605 @@
+City,State,Region
+Henderson,Kentucky,South
+Los Angeles,California,West
+Fort Lauderdale,Florida,South
+Concord,North Carolina,South
+Seattle,Washington,West
+Fort Worth,Texas,Central
+Madison,Wisconsin,Central
+West Jordan,Utah,West
+San Francisco,California,West
+Fremont,Nebraska,Central
+Philadelphia,Pennsylvania,East
+Orem,Utah,West
+Houston,Texas,Central
+Richardson,Texas,Central
+Naperville,Illinois,Central
+Melbourne,Florida,South
+Eagan,Minnesota,Central
+Westland,Michigan,Central
+Dover,Delaware,East
+New Albany,Indiana,Central
+New York City,New York,East
+Troy,New York,East
+Chicago,Illinois,Central
+Gilbert,Arizona,West
+Springfield,Virginia,South
+Jackson,Michigan,Central
+Memphis,Tennessee,South
+Decatur,Alabama,South
+Durham,North Carolina,South
+Columbia,South Carolina,South
+Rochester,Minnesota,Central
+Minneapolis,Minnesota,Central
+Portland,Oregon,West
+Saint Paul,Minnesota,Central
+Aurora,Colorado,West
+Charlotte,North Carolina,South
+Orland Park,Illinois,Central
+Urbandale,Iowa,Central
+Columbus,Ohio,East
+Bristol,Tennessee,South
+Wilmington,Delaware,East
+Bloomington,Illinois,Central
+Phoenix,Arizona,West
+Roseville,California,West
+Independence,Missouri,Central
+Pasadena,California,West
+Newark,Ohio,East
+Franklin,Wisconsin,Central
+Scottsdale,Arizona,West
+San Jose,California,West
+Edmond,Oklahoma,Central
+Carlsbad,New Mexico,West
+San Antonio,Texas,Central
+Decatur,Illinois,Central
+Monroe,Louisiana,South
+Fairfield,Connecticut,East
+Grand Prairie,Texas,Central
+Redlands,California,West
+Hamilton,Ohio,East
+Westfield,New Jersey,East
+Akron,Ohio,East
+Denver,Colorado,West
+Dallas,Texas,Central
+Franklin,Tennessee,South
+Whittier,California,West
+Saginaw,Michigan,Central
+Medina,Ohio,East
+Dublin,Ohio,East
+Detroit,Michigan,Central
+Columbia,Tennessee,South
+Tampa,Florida,South
+Santa Clara,California,West
+Lakeville,Minnesota,Central
+San Diego,California,West
+Pasadena,Texas,Central
+Brentwood,California,West
+Chapel Hill,North Carolina,South
+Morristown,New Jersey,East
+Cincinnati,Ohio,East
+Inglewood,California,West
+Tamarac,Florida,South
+Colorado Springs,Colorado,West
+Belleville,New Jersey,East
+Taylor,Michigan,Central
+Lakewood,New Jersey,East
+Arlington,Virginia,South
+Arvada,Colorado,West
+Hackensack,New Jersey,East
+Saint Petersburg,Florida,South
+Long Beach,California,West
+Hesperia,California,West
+Murfreesboro,Tennessee,South
+Layton,Utah,West
+Austin,Texas,Central
+Lowell,Massachusetts,East
+Columbus,Georgia,South
+Manchester,Connecticut,East
+Harlingen,Texas,Central
+Tucson,Arizona,West
+Quincy,Illinois,Central
+Franklin,Massachusetts,East
+Pembroke Pines,Florida,South
+Des Moines,Washington,West
+Peoria,Illinois,Central
+Las Vegas,Nevada,West
+Warwick,Rhode Island,East
+Miami,Florida,South
+Wilmington,North Carolina,South
+Huntington Beach,California,West
+Richmond,Kentucky,South
+Louisville,Colorado,West
+Lawrence,Massachusetts,East
+Jackson,Mississippi,South
+Canton,Michigan,Central
+New Rochelle,New York,East
+Gastonia,North Carolina,South
+Jacksonville,Florida,South
+Columbus,Indiana,Central
+Auburn,New York,East
+Norman,Oklahoma,Central
+Concord,California,West
+Park Ridge,Illinois,Central
+Amarillo,Texas,Central
+Lindenhurst,New York,East
+Huntsville,Texas,Central
+Rochester,New York,East
+Fayetteville,Arkansas,South
+Costa Mesa,California,West
+Parker,Colorado,West
+Atlanta,Georgia,South
+Gladstone,Missouri,Central
+Great Falls,Montana,West
+Lakeland,Florida,South
+Montgomery,Alabama,South
+Mesa,Arizona,West
+Green Bay,Wisconsin,Central
+Springfield,Ohio,East
+Anaheim,California,West
+Marysville,Washington,West
+Salem,Oregon,West
+Laredo,Texas,Central
+Grove City,Ohio,East
+Dearborn,Michigan,Central
+Warner Robins,Georgia,South
+Vallejo,California,West
+Mission Viejo,California,West
+Rochester Hills,Michigan,Central
+Plainfield,New Jersey,East
+Sierra Vista,Arizona,West
+Vancouver,Washington,West
+Aurora,Illinois,Central
+Arlington,Texas,Central
+Louisville,Kentucky,South
+Cleveland,Ohio,East
+Tyler,Texas,Central
+Burlington,North Carolina,South
+Waynesboro,Virginia,South
+Chester,Pennsylvania,East
+Cary,North Carolina,South
+Palm Coast,Florida,South
+Mount Vernon,New York,East
+Hialeah,Florida,South
+Oceanside,New York,East
+Evanston,Illinois,Central
+Trenton,Michigan,Central
+Cottage Grove,Minnesota,Central
+Bossier City,Louisiana,South
+Des Moines,Iowa,Central
+Lancaster,California,West
+Richmond,Virginia,South
+Asheville,North Carolina,South
+Lake Elsinore,California,West
+Omaha,Nebraska,Central
+Edmonds,Washington,West
+Santa Ana,California,West
+Milwaukee,Wisconsin,Central
+Florence,Kentucky,South
+Lorain,Ohio,East
+Linden,New Jersey,East
+Salinas,California,West
+New Brunswick,New Jersey,East
+Lancaster,Pennsylvania,East
+Concord,New Hampshire,East
+Columbia,Maryland,East
+Garland,Texas,Central
+Norwich,Connecticut,East
+Alexandria,Virginia,South
+Toledo,Ohio,East
+Farmington,New Mexico,West
+Riverside,California,West
+Torrance,California,West
+Round Rock,Texas,Central
+Oceanside,California,West
+Boca Raton,Florida,South
+Virginia Beach,Virginia,South
+Murrieta,California,West
+Jacksonville,North Carolina,South
+Burlington,Iowa,Central
+Olympia,Washington,West
+Washington,District of Columbia,East
+Jefferson City,Missouri,Central
+Saint Peters,Missouri,Central
+Rockford,Illinois,Central
+Brownsville,Texas,Central
+Yonkers,New York,East
+Oakland,California,West
+Monroe,North Carolina,South
+Clinton,Maryland,East
+Encinitas,California,West
+Roswell,Georgia,South
+Jonesboro,Arkansas,South
+Richmond,Indiana,Central
+Antioch,California,West
+Homestead,Florida,South
+La Porte,Indiana,Central
+Lansing,Michigan,Central
+Cuyahoga Falls,Ohio,East
+Reno,Nevada,West
+Harrisonburg,Virginia,South
+Escondido,California,West
+Royal Oak,Michigan,Central
+Rockville,Maryland,East
+Coral Springs,Florida,South
+Buffalo,New York,East
+Boynton Beach,Florida,South
+Gulfport,Mississippi,South
+Fresno,California,West
+Greenville,North Carolina,South
+Long Beach,New York,East
+Florence,Alabama,South
+Macon,Georgia,South
+Cedar Rapids,Iowa,Central
+Providence,Rhode Island,East
+Pueblo,Colorado,West
+Fairfield,California,West
+Deltona,Florida,South
+Murray,Kentucky,South
+Middletown,Connecticut,East
+Freeport,New York,East
+Pico Rivera,California,West
+Provo,Utah,West
+Pleasant Grove,Utah,West
+Smyrna,Georgia,South
+Salem,Virginia,South
+Parma,Ohio,East
+Mobile,Alabama,South
+New Bedford,Massachusetts,East
+Irving,Texas,Central
+Vineland,New Jersey,East
+Glendale,Arizona,West
+Niagara Falls,New York,East
+Thomasville,North Carolina,South
+Westminster,California,West
+Jackson,Tennessee,South
+Coppell,Texas,Central
+Pomona,California,West
+North Las Vegas,Nevada,West
+Allentown,Pennsylvania,East
+Newark,Delaware,East
+Tempe,Arizona,West
+Laguna Niguel,California,West
+Bridgeton,New Jersey,East
+Everett,Massachusetts,East
+Watertown,New York,East
+Appleton,Wisconsin,Central
+Bellevue,Washington,West
+Allen,Texas,Central
+El Paso,Texas,Central
+Grapevine,Texas,Central
+Carrollton,Texas,Central
+Smyrna,Tennessee,South
+Kent,Washington,West
+Lafayette,Louisiana,South
+Tigard,Oregon,West
+Skokie,Illinois,Central
+Plano,Texas,Central
+Suffolk,Virginia,South
+Indianapolis,Indiana,Central
+Bayonne,New Jersey,East
+Fayetteville,North Carolina,South
+Greensboro,North Carolina,South
+Baltimore,Maryland,East
+Kenosha,Wisconsin,Central
+Olathe,Kansas,Central
+Auburn,Washington,West
+Tulsa,Oklahoma,Central
+Redmond,Oregon,West
+Raleigh,North Carolina,South
+Muskogee,Oklahoma,Central
+Meriden,Connecticut,East
+Bowling Green,Kentucky,South
+South Bend,Indiana,Central
+Bristol,Connecticut,East
+Henderson,Nevada,West
+Spokane,Washington,West
+Keller,Texas,Central
+Fairfield,Ohio,East
+Port Orange,Florida,South
+Medford,Oregon,West
+Charlottesville,Virginia,South
+Missoula,Montana,West
+Florence,South Carolina,South
+Springfield,Oregon,West
+Apopka,Florida,South
+Reading,Pennsylvania,East
+Broomfield,Colorado,West
+Springfield,Missouri,Central
+Paterson,New Jersey,East
+Oklahoma City,Oklahoma,Central
+Chesapeake,Virginia,South
+Lubbock,Texas,Central
+Columbia,Missouri,Central
+Johnson City,Tennessee,South
+Auburn,Alabama,South
+San Bernardino,California,West
+Leominster,Massachusetts,East
+Bozeman,Montana,West
+Peoria,Arizona,West
+Lakewood,Ohio,East
+Perth Amboy,New Jersey,East
+Ontario,California,West
+Rancho Cucamonga,California,West
+Moorhead,Minnesota,Central
+Mesquite,Texas,Central
+Stockton,California,West
+Ormond Beach,Florida,South
+Sunnyvale,California,West
+Dover,New Hampshire,East
+York,Pennsylvania,East
+College Station,Texas,Central
+Saint Louis,Missouri,Central
+Quincy,Massachusetts,East
+Manteca,California,West
+Kent,Ohio,East
+San Angelo,Texas,Central
+Salt Lake City,Utah,West
+Huntsville,Alabama,South
+Knoxville,Tennessee,South
+Little Rock,Arkansas,South
+Lincoln Park,Michigan,Central
+Marion,Ohio,East
+Littleton,Colorado,West
+Burlington,Vermont,East
+Bangor,Maine,East
+Southaven,Mississippi,South
+New Castle,Indiana,Central
+Midland,Michigan,Central
+Sioux Falls,South Dakota,Central
+Fort Collins,Colorado,West
+Lafayette,Indiana,Central
+Clarksville,Tennessee,South
+Sacramento,California,West
+Thousand Oaks,California,West
+Malden,Massachusetts,East
+Holyoke,Massachusetts,East
+Albuquerque,New Mexico,West
+Sparks,Nevada,West
+Coachella,California,West
+Elmhurst,Illinois,Central
+Passaic,New Jersey,East
+North Charleston,South Carolina,South
+Newport News,Virginia,South
+Jamestown,New York,East
+Mishawaka,Indiana,Central
+Bowling Green,Ohio,East
+La Quinta,California,West
+Tallahassee,Florida,South
+Nashville,Tennessee,South
+Bellingham,Washington,West
+Woodstock,Illinois,Central
+Haltom City,Texas,Central
+Wheeling,Illinois,Central
+Summerville,South Carolina,South
+Hot Springs,Arkansas,South
+Englewood,Colorado,West
+Lancaster,Ohio,East
+Las Cruces,New Mexico,West
+Hoover,Alabama,South
+Frisco,Texas,Central
+Vacaville,California,West
+Murray,Utah,West
+Waukesha,Wisconsin,Central
+Bakersfield,California,West
+Pompano Beach,Florida,South
+Troy,Ohio,East
+Corpus Christi,Texas,Central
+Redondo Beach,California,West
+Orlando,Florida,South
+Orange,New Jersey,East
+Lake Charles,Louisiana,South
+Highland Park,Illinois,Central
+Hempstead,New York,East
+Noblesville,Indiana,Central
+Apple Valley,Minnesota,Central
+Mount Pleasant,South Carolina,South
+Sterling Heights,Michigan,Central
+Eau Claire,Wisconsin,Central
+Pharr,Texas,Central
+Billings,Montana,West
+Gresham,Oregon,West
+Chattanooga,Tennessee,South
+Meridian,Idaho,West
+Apple Valley,California,West
+Bolingbrook,Illinois,Central
+Maple Grove,Minnesota,Central
+Woodland,California,West
+Missouri City,Texas,Central
+Pearland,Texas,Central
+San Mateo,California,West
+Grand Rapids,Michigan,Central
+Visalia,California,West
+Overland Park,Kansas,Central
+Temecula,California,West
+Yucaipa,California,West
+Revere,Massachusetts,East
+Conroe,Texas,Central
+Tinley Park,Illinois,Central
+Dubuque,Iowa,Central
+Dearborn Heights,Michigan,Central
+Santa Fe,New Mexico,West
+Hickory,North Carolina,South
+Carol Stream,Illinois,Central
+Saint Cloud,Minnesota,Central
+North Miami,Florida,South
+Lawrence,Indiana,Central
+Plantation,Florida,South
+Port Saint Lucie,Florida,South
+Rock Hill,South Carolina,South
+Odessa,Texas,Central
+West Allis,Wisconsin,Central
+Chula Vista,California,West
+Manhattan,Kansas,Central
+Altoona,Pennsylvania,East
+Thornton,Colorado,West
+Champaign,Illinois,Central
+Bloomington,Indiana,Central
+Texarkana,Arkansas,South
+Edinburg,Texas,Central
+Baytown,Texas,Central
+Greenwood,Indiana,Central
+Lakewood,California,West
+Woonsocket,Rhode Island,East
+Superior,Wisconsin,Central
+Bedford,Texas,Central
+Covington,Washington,West
+Broken Arrow,Oklahoma,Central
+Miramar,Florida,South
+Hollywood,Florida,South
+Deer Park,Texas,Central
+Wichita,Kansas,Central
+Mcallen,Texas,Central
+Iowa City,Iowa,Central
+Boise,Idaho,West
+Cranston,Rhode Island,East
+Freeport,Illinois,Central
+Port Arthur,Texas,Central
+Citrus Heights,California,West
+The Colony,Texas,Central
+Redmond,Washington,West
+Daytona Beach,Florida,South
+Bullhead City,Arizona,West
+Portage,Indiana,Central
+Fargo,North Dakota,Central
+Elkhart,Indiana,Central
+San Gabriel,California,West
+Margate,Florida,South
+Sandy Springs,Georgia,South
+Mentor,Ohio,East
+Lawton,Oklahoma,Central
+Hampton,Virginia,South
+Rome,New York,East
+La Crosse,Wisconsin,Central
+Lewiston,Idaho,West
+Hattiesburg,Mississippi,South
+Danville,California,West
+Mount Pleasant,Michigan,Central
+Logan,Utah,West
+Waterbury,Connecticut,East
+Athens,Georgia,South
+Lewiston,Maine,East
+Danville,Illinois,Central
+Avondale,Arizona,West
+Marietta,Georgia,South
+Yuma,Arizona,West
+Wausau,Wisconsin,Central
+Pasco,Washington,West
+Oak Park,Illinois,Central
+Pensacola,Florida,South
+League City,Texas,Central
+Gaithersburg,Maryland,East
+Lehi,Utah,West
+Tuscaloosa,Alabama,South
+Moreno Valley,California,West
+Georgetown,Kentucky,South
+Loveland,Colorado,West
+Chandler,Arizona,West
+Helena,Montana,West
+Kirkwood,Missouri,Central
+Waco,Texas,Central
+Roseville,Michigan,Central
+Frankfort,Illinois,Central
+Bethlehem,Pennsylvania,East
+Roseville,Minnesota,Central
+Grand Island,Nebraska,Central
+Woodbury,Minnesota,Central
+Oak Park,Michigan,Central
+Rogers,Arkansas,South
+Clovis,New Mexico,West
+Jupiter,Florida,South
+Santa Barbara,California,West
+Cedar Hill,Texas,Central
+Norfolk,Nebraska,Central
+Draper,Utah,West
+Ann Arbor,Michigan,Central
+La Mesa,California,West
+Pocatello,Idaho,West
+Holland,Michigan,Central
+Milford,Connecticut,East
+Buffalo Grove,Illinois,Central
+Lake Forest,California,West
+Redding,California,West
+Chico,California,West
+Utica,New York,East
+Conway,Arkansas,South
+Cheyenne,Wyoming,West
+Owensboro,Kentucky,South
+Caldwell,Idaho,West
+Kenner,Louisiana,South
+Nashua,New Hampshire,East
+Bartlett,Tennessee,South
+Redwood City,California,West
+Lebanon,Tennessee,South
+Santa Maria,California,West
+Des Plaines,Illinois,Central
+Longview,Washington,West
+Hendersonville,Tennessee,South
+Waterloo,Iowa,Central
+Cambridge,Massachusetts,East
+Palatine,Illinois,Central
+Beverly,Massachusetts,East
+Eugene,Oregon,West
+Oxnard,California,West
+Renton,Washington,West
+Glenview,Illinois,Central
+Delray Beach,Florida,South
+Commerce City,Colorado,West
+Texas City,Texas,Central
+Wilson,North Carolina,South
+Rio Rancho,New Mexico,West
+Goldsboro,North Carolina,South
+Everett,Washington,West
+Montebello,California,West
+El Cajon,California,West
+Beaumont,Texas,Central
+West Palm Beach,Florida,South
+Abilene,Texas,Central
+Normal,Illinois,Central
+Saint Charles,Missouri,Central
+Saint Charles,Illinois,Central
+Camarillo,California,West
+Hillsboro,Oregon,West
+Burbank,California,West
+Modesto,California,West
+Garden City,Kansas,Central
+Atlantic City,New Jersey,East
+Longmont,Colorado,West
+Davis,California,West
+Wheeling,West Virginia,East
+Morgan Hill,California,West
+Clifton,New Jersey,East
+Sheboygan,Wisconsin,Central
+East Point,Georgia,South
+Rapid City,South Dakota,Central
+Andover,Massachusetts,East
+Kissimmee,Florida,South
+Shelton,Connecticut,East
+Danbury,Connecticut,East
+Marion,Iowa,Central
+Sanford,Florida,South
+San Marcos,Texas,Central
+Greeley,Colorado,West
+Mansfield,Texas,Central
+Elyria,Ohio,East
+Twin Falls,Idaho,West
+Coral Gables,Florida,South
+Romeoville,Illinois,Central
+Marlborough,Massachusetts,East
+Laurel,Maryland,East
+Bryan,Texas,Central
+Pine Bluff,Arkansas,South
+Aberdeen,South Dakota,Central
+Hagerstown,Maryland,East
+East Orange,New Jersey,East
+Arlington Heights,Illinois,Central
+Oswego,Illinois,Central
+Coon Rapids,Minnesota,Central
+San Clemente,California,West
+Dublin,California,West
+San Luis Obispo,California,West
+Springdale,Arkansas,South
+Lodi,California,West
+La Porte,Texas,Central
+Mason,Ohio,East
+Woodstock,Georgia,South
