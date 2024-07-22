@@ -1,0 +1,49 @@
+Table 1 in Customers.csv
+Columns:
+  - CUSTOMERNAME
+  - PHONE
+  - ADDRESSLINE1
+  - ADDRESSLINE2
+  - CITY
+  - STATE
+  - POSTALCODE
+  - COUNTRY
+  - TERRITORY
+  - CONTACTLASTNAME
+  - CONTACTFIRSTNAME
+  - DEALSIZE
+
+Table 1 in International Sales - International Sales.csv
+Columns:
+  - Region
+  - Customers
+  - Country
+  - Item Type
+  - Sales Channel
+  - Order Priority
+  - Order Date
+  - Order ID
+  - Ship Date
+  - Units Sold
+  - Unit Price
+  - Unit Cost
+  - Total Revenue
+  - Total Cost
+  - Total Profit
+
+Table 1 in Sales Data.csv
+Columns:
+  - Row ID
+  - Order ID
+  - Order Date
+  - Ship Date
+  - Ship Mode
+  - Customer ID
+  - Segment
+  - Postal Code
+  - Product ID
+  - Sales
+  - Quantity
+  - Discount
+  - Profit
+
