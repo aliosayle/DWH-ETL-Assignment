@@ -1,0 +1,95 @@
+I generated these with python to make it easier to process data
+
+People.csv:
+  - Person
+  - Region
+
+Orders.csv:
+  - Row ID
+  - Order ID
+  - Order Date
+  - Ship Date
+  - Ship Mode
+  - Customer ID
+  - Segment
+  - Postal Code
+  - Product ID
+  - Sales
+  - Quantity
+  - Discount
+  - Profit
+
+International Sales - International Sales.csv:
+  - Region
+  - Customers
+  - Country
+  - Item Type
+  - Sales Channel
+  - Order Priority
+  - Order Date
+  - Order ID
+  - Ship Date
+  - Units Sold
+  - Unit Price
+  - Unit Cost
+  - Total Revenue
+  - Total Cost
+  - Total Profit
+
+Product Category.csv:
+  - ID
+  - Name
+
+Cities.csv:
+  - City
+  - State
+  - Region
+
+Postal Codes.csv:
+  - Postal Code
+  - City
+
+Customers1.csv:
+  - Customer ID
+  - Customer Name
+
+Ship Mode.csv:
+  - ID
+  - Ship Mode
+
+CustomersDetailed.csv:
+  - CUSTOMERNAME
+  - PHONE
+  - ADDRESSLINE1
+  - ADDRESSLINE2
+  - CITY
+  - STATE
+  - POSTALCODE
+  - COUNTRY
+  - TERRITORY
+  - CONTACTLASTNAME
+  - CONTACTFIRSTNAME
+  - DEALSIZE
+
+Product Sub Category.csv:
+  - ID
+  - Name
+
+Segment.csv:
+  - Segment
+  - Segment ID
+
+States.csv:
+  - State
+  - Country
+
+Product.csv:
+  - Product ID
+  - Cat ID
+  - Sub Cat ID
+  - Product Name
+
+Returns.csv:
+  - Returned
+  - Order ID
+
